@@ -1,0 +1,104 @@
+.body{
+    margin: 0px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+.containter{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.content {
+    width: 1200px;
+    display: flex;
+}
+.menu {
+    width: 100%;
+}
+
+.menu-items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.containter-slider{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(66, 75, 104);
+}
+.content-slider {
+    display: flex;
+    justify-content: center;
+}
+
+.container-about{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(81, 40, 100);
+}
+.content-about {
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.zagolovok {
+    color: white !important;
+}
+
+.foto-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.foto-content {
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fotos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+}
+
+.fotoss {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.fotos-hostels{
+    display: flex;
+    justify-content: space-between;
+}
+
+.plus {
+    display: flex;
+    flex-direction: row;
+    width: 450px;
+}
+
+.content-plus {
+    display: flex;
+    flex-direction: column;
+}
+.pluss{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
